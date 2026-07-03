@@ -1,6 +1,6 @@
 Copyright 2026 howlingFounts (https://github.com/howlingFounts).
 Copyright 2011 The Roboto Flex Project Authors (https://github.com/googlefonts/roboto-flex).
-Copyright (c) 2024-2026, Takushun Wu (https://github.com/takushun-wu/), with Reserved Font Name 'WenYuan Sans', '文源黑体'.
+Copyright (c) 2024-2026, Takushun Wu (https://github.com/takushun-wu/), with Reserved Font Name 'WenYuan Sans', '文渊黑体'.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
