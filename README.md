@@ -10,7 +10,7 @@
 
 二创字体需同样遵守 [SIL OFL 1.1](https://openfontlicense.org/open-font-license-official-text/) 许可证。
 
-**[[严禁单独售卖（倒卖）包括本字体在内任何使用 SIL OFL 1.1 许可证的字体！]](https://www.bilibili.com/read/cv51138767/)**
+**[严禁单独售卖（倒卖）包括本字体在内任何使用 SIL OFL 1.1 许可证的字体！](https://www.bilibili.com/read/cv51138767/)**
 
 ## 鸣谢
 
